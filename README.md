@@ -11,4 +11,4 @@ Scatter Plot with data points
 ![Scatter Plot screenshot example](/images/dataviz-scatterplot-screenshot-pts.png "Scatter Plot with data points")
 
 ## Running the Project
-This project was created in Microsoft Visual Studio 2010 C#. To open the project, open the solution file "**ScatterPlot.sln**".
+This project was created in Microsoft Visual Studio 2010 C#. To open and run the project locally, download the **code** folder and double-click the solution file "**ScatterPlot.sln**".
